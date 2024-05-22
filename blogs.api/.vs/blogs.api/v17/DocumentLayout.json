@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\BlogsAPI\\blogs.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\dataaccess\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\dataaccess\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|c:\\workspace\\blogsapi\\blogs.api\\blogs.api\\blogs.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A69AD9FF-4043-4F89-AD7C-4A2C61706A40}|blogs.api\\blogs.api.csproj|solutionrelative:blogs.api\\blogs.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "blogs.api\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "blogs.api\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:20:53.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\DataAccess\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "blogs.api\\DataAccess\\BlogRepository.cs",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\DataAccess\\BlogRepository.cs",
+              "RelativeToolTip": "blogs.api\\DataAccess\\BlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:19:32.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Program.cs",
+              "RelativeDocumentMoniker": "blogs.api\\Program.cs",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Program.cs",
+              "RelativeToolTip": "blogs.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:21:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\appsettings.json",
+              "RelativeDocumentMoniker": "blogs.api\\appsettings.json",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\appsettings.json",
+              "RelativeToolTip": "blogs.api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T14:16:01.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "blogs.api\\Models\\Blog.cs",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\Models\\Blog.cs",
+              "RelativeToolTip": "blogs.api\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:07:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "blogs.api.csproj",
+              "DocumentMoniker": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\blogs.api.csproj",
+              "RelativeDocumentMoniker": "blogs.api\\blogs.api.csproj",
+              "ToolTip": "C:\\workspace\\BlogsAPI\\blogs.api\\blogs.api\\blogs.api.csproj",
+              "RelativeToolTip": "blogs.api\\blogs.api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T14:04:44.241Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
